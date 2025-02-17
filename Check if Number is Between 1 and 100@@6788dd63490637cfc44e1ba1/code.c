@@ -3,10 +3,10 @@ int main() {
     int a;
     scanf("%d", &a);
     if(a>=18) {
-        printf("Eligible");
+        printf("In Range");
     }
     else {
-        printf("Not Eligible");
+        printf("Out of Range");
     }
     return 0;
 }
