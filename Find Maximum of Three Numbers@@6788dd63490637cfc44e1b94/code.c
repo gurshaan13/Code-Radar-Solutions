@@ -3,7 +3,7 @@ int main() {
     int a,b,c;
     int max=0;
     scanf("%d%d%d",&a,&b,&c);
-    if (a>=b && s>=c) {
+    if (a>=b && a>=c) {
         printf("%d", a);
     } 
     else if (b>=a && b>=c) {
