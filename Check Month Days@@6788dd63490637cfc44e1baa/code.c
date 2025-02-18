@@ -2,8 +2,8 @@
 int main() {
     int a;
     scanf("%d",&a);
-    if(a==31){
-        printf("January");
+    if(a==1){
+        printf("31");
     }
     return 0;
 }
