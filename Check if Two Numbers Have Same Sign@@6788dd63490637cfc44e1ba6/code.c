@@ -6,9 +6,9 @@ int main() {
     
     // Check if both numbers have the same sign
     if ((a >= 0 && b >= 0) || (a < 0 && b < 0)) {
-        printf("Same sign");
+        printf("Same Sign");
     } else {
-        printf("Different sign");
+        printf("Different Sign");
     }
     
     return 0;
