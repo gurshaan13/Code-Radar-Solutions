@@ -3,8 +3,6 @@
 int main() {
     int a,;
     scanf("%d", &a);
-    
-    // Check if both numbers have the same sign
     if (a<=0) {
         printf("Freezing");
     }
