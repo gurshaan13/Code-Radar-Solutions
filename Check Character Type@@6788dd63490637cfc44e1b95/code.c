@@ -17,7 +17,7 @@ int main() {
     else if (c==@){
         printf("Special Character");
     }
-    else if (c==z){
+    else{
         printf("Consonant");
     }
     return 0;
