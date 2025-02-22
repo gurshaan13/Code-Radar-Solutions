@@ -10,7 +10,7 @@ int main() {
     if (ch >= 'A' && ch <= 'Z') {
         printf("Uppercase\n", ch);
     } else if (ch >= 'a' && ch <= 'z') {
-        printf("The character '%c' is lowercase.\n", ch);
+        printf("Lowercase.\n", ch);
     } else {
         printf("The character '%c' is not an alphabet.\n", ch);
     }
