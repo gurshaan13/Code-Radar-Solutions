@@ -8,7 +8,7 @@ int main() {
 
     // Check if the character is uppercase or lowercase based on ASCII values
     if (ch >= 'A' && ch <= 'Z') {
-        printf("   Uppercase\n", ch);
+        printf("Uppercase\n", ch);
     } else if (ch >= 'a' && ch <= 'z') {
         printf("The character '%c' is lowercase.\n", ch);
     } else {
