@@ -2,9 +2,6 @@
 
 int main() {
     int num, i, isPrime = 1;
-
-    // Input the number
-    printf("Enter a number: ");
     scanf("%d", &num);
 
     // Handle special cases: numbers less than 2 are not prime
@@ -22,7 +19,7 @@ int main() {
 
     // Output the result
     if (isPrime) {
-        printf("%d is a prime number.\n", num);
+        printf("Prime\n", num);
     } else {
         printf("%d is not a prime number.\n", num);
     }
