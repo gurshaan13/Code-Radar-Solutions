@@ -4,7 +4,7 @@ int main() {
     scanf("%d %d %d",&a,&b,&c);
     if (a + b >= c && a + c >= b && b + c >= a) {
         printf("Valid\n");
-    } else {
+    } else if(1 2 3){
         printf("Invalid\n");
     }
     return 0;
