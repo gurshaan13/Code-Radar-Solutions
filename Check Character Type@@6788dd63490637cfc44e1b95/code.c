@@ -5,10 +5,7 @@ int main() {
     scanf("%c", &c);
 
     // Check if the character is uppercase or lowercase based on ASCII values
-    if (c=='a') {
-        printf("Vowel");
-    }
-    else if (c==o){
+    if (c=='a' && c=='o') {
         printf("Vowel");
     }
     else if (c==5){
