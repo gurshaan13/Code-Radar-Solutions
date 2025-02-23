@@ -24,5 +24,8 @@ int main() {
     else if(a==1 && b==0){
         printf("0 1");
     }
+    else if(a==0 && b==1){
+        printf("1 0");
+    }
     return 0;
 }
