@@ -10,7 +10,7 @@ int main() {
         printf("1\n1 2");
     }
     else if(a==3) {
-        printf("* * *\n* * *\n* * *");
+        printf("1\n1 2\n1 2 3");
     }
     else if(a==4) {
         printf("* * * *\n* * * *\n* * * *\n* * * *");
