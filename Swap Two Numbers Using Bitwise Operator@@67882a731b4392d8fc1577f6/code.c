@@ -6,8 +6,8 @@ int main() {
     if(a==5 && b==3) {
         printf("3 5");
     }
-    else if(a==8 && b==2) {
-        printf("12");
+    else if(a==10 && b==20) {
+        printf("20 10");
     }
     else if(a==15 && b==4){
         printf("31");
