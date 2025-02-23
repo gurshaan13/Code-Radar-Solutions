@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main() {
-    char a;
-    scanf("%c", &a);
+    char str[100];
+    scanf("%s", str);
     if(a=="hello") {
         printf("olleh");
     }
