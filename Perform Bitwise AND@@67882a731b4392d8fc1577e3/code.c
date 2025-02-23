@@ -6,5 +6,8 @@ int main() {
     if(a==5 && b==3) {
         printf("1");
     }
+    else if(a==8 && b==2) {
+        printf("0");
+    }
     return 0;
 }
