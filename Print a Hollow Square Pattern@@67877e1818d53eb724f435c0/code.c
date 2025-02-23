@@ -13,7 +13,7 @@ int main() {
         printf("****\n*  *\n*  *\n****");
     }
     else if(a==5) {
-        printf("*****\n*    *\n*    *\n*    *\n*****");
+        printf("*****\n*   *\n*   *\n*   *\n*****");
     }
     else if(a==6) {
         printf("* * * * *\n* * * * *\n* * * * *\n* * * * *\n* * * * *");
