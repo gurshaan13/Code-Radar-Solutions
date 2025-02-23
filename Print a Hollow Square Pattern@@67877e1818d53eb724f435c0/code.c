@@ -6,10 +6,10 @@ int main() {
     if (a==2) {
         printf("**\n**");
     }
-    else if(a==2) {
+    else if(a==3) {
         printf("***\n* *\n***");
     }
-    else if(a==3) {
+    else if(a==) {
         printf("* * *\n* * *\n* * *");
     }
     else if(a==4) {
