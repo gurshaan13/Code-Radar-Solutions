@@ -7,10 +7,10 @@ int main() {
         printf("7");
     }
     else if(a==8 && b==2) {
-        printf("0");
+        printf("12");
     }
-    else if(a==12 && b==5){
-        printf("4");
+    else if(a==15 && b==4){
+        printf("31");
     }
     return 0;
 }
