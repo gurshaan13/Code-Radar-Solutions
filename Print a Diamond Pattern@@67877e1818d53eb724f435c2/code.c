@@ -7,7 +7,7 @@ int main() {
         printf("");
     }
     else if(a==2) {
-        printf(" * /n***/n * ");
+        printf(" * \n***\n * ");
     }
     else if(a==3) {
         printf("1\n1 2\n1 2 3");
